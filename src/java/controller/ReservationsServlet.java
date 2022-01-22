@@ -22,10 +22,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import services.ChambreServices;
 
-/**
- *
- * @author BISSAOUI YASSINE
- */
 public class ReservationsServlet extends HttpServlet {
 
     /**

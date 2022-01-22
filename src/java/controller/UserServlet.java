@@ -13,10 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import services.UserServices;
 
-/**
- *
- * @author BISSAOUI YASSINE
- */
+
 public class UserServlet extends HttpServlet {
 
     /**
